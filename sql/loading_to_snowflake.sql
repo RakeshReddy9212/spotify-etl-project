@@ -128,3 +128,4 @@ CREATE OR REPLACE TABLE SPOTIFY_DB.PUBLIC.song_data(
      
      
     select * from album_data;
+
